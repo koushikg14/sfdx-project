@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Energy Audit</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Energy Audits</value>
+    </caseValues>
+    <fields>
+        <label></label>
+        <name>Account__c</name>
+        <relationshipLabel></relationshipLabel>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Annual_Energy_Usage_kWh__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Audit_Notes__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Average_Annual_Electric_Cost__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>Type_of_Installation__c</name>
+        <picklistValues>
+            <masterLabel>Carport</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ground mounted</masterLabel>
+            <translation></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rooftop</masterLabel>
+            <translation></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>

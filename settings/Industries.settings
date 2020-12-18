@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IndustriesSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableAccountScoreEnabled>false</enableAccountScoreEnabled>
+    <enableBlockResourceAvailabilityOrgPref>false</enableBlockResourceAvailabilityOrgPref>
+    <enableCalcserviceEnabled>false</enableCalcserviceEnabled>
+    <enableEventManagementOrgPref>false</enableEventManagementOrgPref>
+    <enableEventWriteOrgPref>false</enableEventWriteOrgPref>
+    <enableIndLoyaltyEnabled>false</enableIndLoyaltyEnabled>
+    <enableMultiResourceOrgPref>false</enableMultiResourceOrgPref>
+    <enableOverbookingOrgPref>false</enableOverbookingOrgPref>
+</IndustriesSettings>
